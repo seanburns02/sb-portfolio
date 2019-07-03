@@ -12,5 +12,8 @@ font-weight: bold;
 table{
   border: 1px solid black;
   border-collapse: collapse;
-
+}
+ul{
+  color: black;
+  font-family: sans-serif;
 }
