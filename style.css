@@ -2,3 +2,10 @@
 body {
   background-color:  dimgrey
 }
+h2{
+  color: mintcream;
+  font-family: monospace;
+  text-align: left;
+  text-decoration: underline;
+font-weight: bold;
+}
