@@ -1,21 +1,21 @@
 @import '~bootstrap/dist/css/bootstrap.min.css';
 body {
-  background-color: black
+  background-color: whitesmoke
 }
 h2{
-  color: mintcream;
+  color: black;
   font-family: monospace;
   text-align: left;
   text-decoration: underline;
 font-weight: bold;
 }
 table{
-  border: 1px solid white;
+  border: 1px solid black;
   border-collapse: collapse;
-  color: antiquewhite;
+  color: dimgray;
 }
 ul{
-  color: antiquewhite;
+  color: black;
   font-family: sans-serif;
 }
 
@@ -27,12 +27,12 @@ ul{
                 3px 3px #53a7ea;
         -webkit-transform: translateX(-3px);
         transform: translateX(-3px);
-        border-width: 8px;
-        border-color: yellow;
+        border-width: 5px;
+        border-color: dodgerblue;
 }
 .typewriter h2 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid orange; /* The typwriter cursor */
+  border-right: .15em solid whitesmoke; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em; /* Adjust as needed */
@@ -48,3 +48,16 @@ ul{
   from { width: 0 }
   to { width: 100% }
 }
+h1{
+  font-family: monospace;
+  color:black;
+  text-decoration: underline;
+}
+ol{
+color:black;
+  font-family: sans-serif;
+}
+
+
+
+
