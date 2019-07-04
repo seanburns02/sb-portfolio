@@ -1,6 +1,6 @@
 @import '~bootstrap/dist/css/bootstrap.min.css';
 body {
-  background-color:  dimgrey
+  background-color: black
 }
 h2{
   color: mintcream;
@@ -10,10 +10,11 @@ h2{
 font-weight: bold;
 }
 table{
-  border: 1px solid black;
+  border: 1px solid white;
   border-collapse: collapse;
+  color: antiquewhite;
 }
 ul{
-  color: black;
+  color: antiquewhite;
   font-family: sans-serif;
 }
