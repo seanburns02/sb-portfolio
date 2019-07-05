@@ -18,14 +18,18 @@ ul{
   color: black;
   font-family: sans-serif;
 }
-
+.threed{
+  width: 100%;
+  border-width: 5px;
+  border-color: transparent;
+  transition: border-color .5s ease-in-out;
+}
 .threed:hover
 {
         box-shadow:
                 1px 1px #53a7ea,
                 2px 2px #53a7ea,
                 3px 3px #53a7ea;
-        transform: translateX(-3px);
         border-width: 5px;
         border-color: dodgerblue;
 }
@@ -57,5 +61,16 @@ color:black;
   font-family: sans-serif;
 }
 
+.meme{
+width:50%;
+border-color: black;
+border-width: 8px;
+display: block;
+border-style: solid;
+ transition: border-color .5s ease-in-out;
+}
 
+.meme:hover{
+  border-color: red
+}
 
