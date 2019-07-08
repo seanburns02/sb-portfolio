@@ -73,4 +73,10 @@ border-style: solid;
 .meme:hover{
   border-color: red
 }
+button{
+  font-family: PT sans;
+}
 
+p{
+  color: white;
+}
