@@ -80,3 +80,13 @@ button{
 p{
   color: white;
 }
+li{
+  color: grey;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+table{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: orange
+}
