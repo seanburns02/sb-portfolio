@@ -4,8 +4,8 @@ body {
 }
 h2{
   color: black;
-  font-family: monospace;
-  text-align: left;
+  font-family: Roboto;
+  text-align: center;
   
 font-weight: bold;
 }
@@ -32,24 +32,6 @@ ul{
                 3px 3px #53a7ea;
         border-width: 5px;
         border-color: dodgerblue;
-}
-.typewriter h4 {
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid whitesmoke; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .15em; /* Adjust as needed */
-  animation: 
-    typing 4s steps(40, end),
-    blink-caret .75s step-end infinite;
-}
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
 }
 h1{
   font-family: monospace;
